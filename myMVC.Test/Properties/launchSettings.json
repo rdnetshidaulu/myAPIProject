@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "myMVC.Test": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
